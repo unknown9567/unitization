@@ -6,6 +6,7 @@ unitization depends on a few libraries:
 * keras == 2.1.5
 * jupyter
 * numpy  
+
 unitization is tested in the environment with tensorflow == 1.6.0 and keras == 2.1.5. The higher versions of these libraries might work.
 
 # Usage
