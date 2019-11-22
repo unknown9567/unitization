@@ -1,5 +1,3 @@
-# unitization
-
 # Notes 
 unitization depends on a few libraries:  
 * tensorflow == 1.6.0
